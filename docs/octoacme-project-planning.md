@@ -40,4 +40,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
-- [ ] Initial test plan / QA approach drafted
+- [ ] Initial test plan / QA approach drafted (QA Lead)
+- [ ] UX designs or wireframes attached to backlog items (UX Designer)
+- [ ] DevOps environment and pipeline requirements confirmed (DevOps Engineer)
+
+See [octoacme-role-handoff-checklist.md](octoacme-role-handoff-checklist.md) for detailed handoff guidance by phase.
